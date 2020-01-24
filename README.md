@@ -5,4 +5,4 @@
 - https://www.reddit.com/r/unixporn/comments/erd8av/i3gaps_neon/
 - https://github.com/enindu/dotfiles
 - https://github.com/Dualspc/archlabs-config
-
+- https://github.com/demure/dotfiles
