@@ -1,0 +1,33 @@
+# default options
+display_on=1
+span_image=false
+lock_timeout=15
+fx_list=(dimpixel)
+dim_level=40
+blur_level=1
+pixel_scale=10,1000
+solid_color=333333
+description=""
+
+# default theme
+loginbox=181818ff
+loginshadow=181818ff
+ringcolor=ffffffff
+ringvercolor=ffffffff
+ringwrongcolor=da0020ff
+insidecolor=00000000
+insidevercolor=00000000
+insidewrongcolor=00000000
+keyhlcolor=1d8c3fff
+bshlcolor=da0020ff
+separatorcolor=ffffffff
+verifcolor=ffffff00
+timecolor=ffffffff
+datecolor=ffffffff
+
+# default font/size
+locktext="You shall not pass..."
+font="Inconsolata Nerd Font"
+timeformat=" %H:%M"
+timesize=42
+datesize=14
