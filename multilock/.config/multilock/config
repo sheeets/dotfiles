@@ -11,7 +11,7 @@ description=""
 
 # default theme
 loginbox=181818ff
-loginshadow=181818ff
+loginshadow=000000ff
 ringcolor=ffffffff
 ringvercolor=ffffffff
 ringwrongcolor=da0020ff
@@ -21,12 +21,12 @@ insidewrongcolor=00000000
 keyhlcolor=1d8c3fff
 bshlcolor=da0020ff
 separatorcolor=ffffffff
-verifcolor=ffffff00
+verifcolor=181818ff
 timecolor=ffffffff
 datecolor=ffffffff
 
 # default font/size
-locktext="You shall not pass..."
+locktext="You shall not pass...ever"
 font="Inconsolata Nerd Font"
 timeformat=" %H:%M"
 timesize=42
